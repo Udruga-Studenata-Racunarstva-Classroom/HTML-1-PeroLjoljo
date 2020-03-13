@@ -1,0 +1,140 @@
+.topnav {
+    background-color: rgb(122, 116, 116);
+    overflow: hidden;
+  }
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding-right:7px;
+    padding-left: 47px;
+    text-decoration: none;
+    font-size: 17px;
+  
+  }
+ 
+  .topnav ul{
+    list-style-type: none;
+    width:100%;
+    height: 50px;
+    float: left;
+    align-content: center;
+
+  }
+ 
+  #logo{
+    width: 39%;
+    float: left;
+  }
+ nav{
+   overflow: hidden;
+   padding-top: 20px;
+   background-color: rgb(207, 206, 206);
+   width: 100%;
+   height: 40px;
+ }
+  nav ul{
+    list-style-type:none;
+    float: left;
+   
+  }
+  nav li{
+    color: #000000;
+    display: inline;
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+  nav a{
+    text-decoration: none;
+    color: #000;
+  }
+  #newsSetcion1{
+    padding: 10px;
+    width: 40%;
+    float: left;
+    border-right: double;
+  }
+#newsSetcion1 ul{
+
+    border-style: groove;
+    list-style-type:none;
+    float: left;
+   
+}
+#newsSetcion1 li{
+  float: left;
+    width: 80%;
+    padding: 20px;
+    
+    border-bottom: double;
+}
+#newsSetcion1 a{
+  text-decoration: none;
+}
+
+#newsSetcion2{
+  
+  width: 30%;
+  float: left;
+  border-right: double;
+}
+#newsSetcion2 ul{
+
+  
+  width: 100%;
+  list-style-type:none;
+  float: left;
+ 
+}
+#newsSetcion2 li{
+float: left;
+  width: 70%;
+ 
+  border-style: solid;
+  border-color: bisque;
+}
+#newsSetcion2 a{
+  width: 70%;
+text-decoration: none;
+}
+#newsSetcion2 img{
+  width: 30%;
+}
+#subsec2{
+  width: 100% ;
+  border-bottom: groove;
+}
+#subsec2 img{
+width: 80%;
+padding:40px
+}
+#subsec2 p{
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+#newsSection3{
+
+  float: left;
+  
+}
+#newsSection3 ul{
+  list-style-type: none;
+
+}
+#newsSection3 img{
+  padding-left:30px;
+  padding-bottom: 15px;
+}
+#newsSection3 a{
+  padding: 30px;
+  text-decoration: none;
+  padding-bottom: 30px;
+}
+#newsSection3 li{
+  padding-bottom: 10px;
+  border-bottom: inset;
+}
+#newsSection3 label{
+  padding-left: 120px;
+}
